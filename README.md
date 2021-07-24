@@ -1,4 +1,4 @@
-# First PWA Start
+# First PWA Example
 
 ## Development
 
